@@ -1,1 +1,0 @@
-This folder contains all of my initial Ruby projects while I am learning Ruby in 2017.
