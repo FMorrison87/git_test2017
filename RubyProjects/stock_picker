@@ -1,0 +1,33 @@
+def stock_picker
+
+end
+
+Weekly_array = []
+
+"What is the Sunday stock price?"
+Sunday = gets.chomp
+Weekly_array << Sunday
+
+"What is the Monday stock price?"
+Monday = gets.chomp
+Weekly_array << Monday
+
+"What is the Tuesday stock price?"
+Tuesday = gets.chomp
+Weekly_array << Tuesday
+
+"What is the Wednesday stock price?"
+Wednesday = gets.chomp
+Weekly_array << Wednesday
+
+"What is the Thursday stock price?"
+Thursday = gets.chomp
+Weekly_array << Thursday
+
+"What is the Friday stock price?"
+Friday = gets.chomp
+Weekly_array << Friday
+
+"What is the Saturday stock price?"
+Saturday = gets.chomp
+Weekly_array << Saturday
